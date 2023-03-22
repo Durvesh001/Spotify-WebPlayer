@@ -48,7 +48,7 @@ nav ul li:hover{
     color: white;
     display: flex;
     width: 70%;
-    margin: 23px auto; 
+    margin: 15px auto; 
     border-radius: 13px; 
     padding: 20px 20px;
     font-family: 'Josefin Sans', sans-serif;
@@ -63,7 +63,7 @@ nav ul li:hover{
     /* position: fixed;  */
     position: sticky;
     /* overflow: scroll; */
-    height: 85px;
+    height: 92px;
     background-color: rgb(24, 24, 24);
     color: white;
     display: flex;
@@ -84,6 +84,7 @@ nav ul li:hover{
 
 #myProgressBar{
     width: 33vw;
+    margin-bottom: 10px;
     /* background-color: green ; */
     cursor: pointer;
 }

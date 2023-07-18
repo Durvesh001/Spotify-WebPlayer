@@ -1,5 +1,5 @@
 # Spotify-WebPlayer
-# Link to the site --> https://durvesh001.github.io/Spotify-WebPlayer/
+Link to the site --> https://durvesh001.github.io/Spotify-WebPlayer/
 The project focuses on the development of a Spotify web player using HTML, CSS, and JavaScript. The main objective is to create a website that emulates the functionality of the popular Spotify music streaming platform. The website includes a curated collection of songs, allowing users to navigate through them using forward and backward buttons and control playback with pause and resume options.
 
 The project begins by designing and structuring the website using HTML. HTML is used to create the necessary elements and layout, such as song listings, buttons, and player controls. CSS is then applied to style and customize the appearance of the website, ensuring a visually appealing and user-friendly interface.

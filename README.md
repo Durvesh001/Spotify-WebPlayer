@@ -8,6 +8,6 @@ The core functionality of the web player is implemented using JavaScript. JavaSc
 
 The website offers a comprehensive music playback experience within the browser environment. Users can explore the curated song collection, switch between songs using the navigation buttons, and control playback by pausing and resuming as desired. The integration of HTML, CSS, and JavaScript ensures a smooth and interactive user experience, providing a user-friendly and engaging platform for music streaming.
 
-### Link to the site --> https://durvesh001.github.io/Spotify-WebPlayer/
+#### Link to the site --> https://durvesh001.github.io/Spotify-WebPlayer/
 
 ![image](https://github.com/Durvesh001/Spotify-WebPlayer/assets/75305014/542edb2a-013e-4d1f-bd7d-31447bce3955)
